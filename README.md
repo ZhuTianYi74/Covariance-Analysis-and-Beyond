@@ -17,7 +17,7 @@ Please note that these links may be removed or renamed later by the source provi
 | 1    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
 | 2    | Example 1 | https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-11-r92#MOESM1 |
 | 2    | Example 2 | (Pending, check with Ronghua) |
-| 2    | Example 2 | (https://finance.yahoo.com/quote/%5EGSPC/history/) (Pending confirmation) |
+| 2    | Example 2 | * https://github.com/ZhuTianYi74/Covariance-Analysis-and-Beyond/blob/main/Chapter2_Example2_data_SP500.zip|
 | 2    | Example 3 | * http://www.functionaldata.org |
 | 2    | Example 3 | * https://www.rdocumentation.org/packages/fda/versions/6.2.0/topics/CanadianWeather |
 | 3    | Example 3 | * https://archive.ics.uci.edu/dataset/52/ionosphere |
