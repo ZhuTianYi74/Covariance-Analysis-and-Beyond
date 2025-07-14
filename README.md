@@ -27,8 +27,8 @@ Please note that these links may be removed or renamed later by the source provi
 | 5    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
 | 6    | Example 1 | (Pending, check with Tao Zou) |
 | 7    | Example 1 | * https://github.com/GauJss/IONI |
-| 7    | Example 2 | * https://github.com/ZhuTianYi74/Covariance-Analysis-and-Beyond |
-| 7    | Example 3 | * https://github.com/ZhuTianYi74/Covariance-Analysis-and-Beyond |
+| 7    | Example 2 | * https://github.com/ZhuTianYi74/Covariance-Analysis-and-Beyond/blob/main/Chapter7_Example2%263_data.zip |
+| 7    | Example 3 | * https://github.com/ZhuTianYi74/Covariance-Analysis-and-Beyond/blob/main/Chapter7_Example2%263_data.zip|
 | 8    | Example 1 | https://www.crsp.org |
 | 8    | Example 2 | https://www.nber.org/research/data |
 | 8    | Example 3 | * https://www.kaggle.com/datasets/kasikrit/att-database-of-faces |
