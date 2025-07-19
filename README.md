@@ -3,7 +3,7 @@
 This resource provides links to more information about some of the examples used in the book *Covariance Analysis and Beyond*. There are two types of links:
 
 - **Informational links** provide references to the original paper or dataset description.
-- **Downloadable links** are marked with “*” and allow direct access to the dataset (if available online).
+- **Downloadable links** are marked with “*” and allow direct access to the dataset.
 
 Please note that these links may be removed or renamed later by the source provider. We are not responsible for such changes.
 
